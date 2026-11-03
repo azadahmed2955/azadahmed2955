@@ -8,4 +8,4 @@ Electronic Engineering Student at HSHL
 - [Autonomous Robotic Car](https://github.com/UmutKarakayaHSHL/D3--prototyping)
 - [Prototyping](https://github.com/azadahmed2955/Protyping)
 
-- [Hardware Engineering Lab] (https://github.com/Faysal449/SS2026_HWE_Lab_A7/tree/main/Projects)
+- [Hardware Engineering Project] (https://github.com/Faysal449/SS2026_HWE_Lab_A7/tree/main/Projects)
